@@ -1,6 +1,6 @@
 # Excursion Project
 
-This project is a simple web page designed to practice Git and GitHub skills. It includes basic HTML and CSS to create a visually appealing layout.
+This project is a simple web page designed to practice Git and GitHub skills from codeacademy. It includes basic HTML and CSS to create a visually appealing layout.
 
 ## Project Structure
 
